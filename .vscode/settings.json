@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/21c2f2c1-04bb-4914-befb-25d35747c447/microsoft.web/sites/subscriptions/21c2f2c1-04bb-4914-befb-25d35747c447/resourceGroups/RG-MAC-AppServices/providers/Microsoft.Web/sites/webappmac/subscriptions/21c2f2c1-04bb-4914-befb-25d35747c447/resourceGroups/RG-MAC-AppServices/providers/Microsoft.Web/sites/webappmac/slots/subscriptions/21c2f2c1-04bb-4914-befb-25d35747c447/resourceGroups/RG-MAC-AppServices/providers/Microsoft.Web/sites/webappmac/slots/staging",
+    "appService.deploySubpath": "."
+}
