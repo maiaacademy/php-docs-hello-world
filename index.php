@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World v2!";
+echo "Welcome Mentoria Arquiteto Cloud - v2!";
