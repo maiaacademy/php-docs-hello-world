@@ -1,3 +1,3 @@
 <?php
 
-echo "Seja bem-vindo ao Web site do Azure App Service - v2!";
+echo "Seja bem-vindo ao Web site do Azure Expert no Azure App Service!";
