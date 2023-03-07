@@ -1,3 +1,3 @@
 <?php
 
-echo "Aplicação executando no App Service - Azure Expert!";
+echo "<b>Aplicação executando no App Service - Azure Expert v2!</b>";
