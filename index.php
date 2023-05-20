@@ -1,3 +1,3 @@
 <?php
 
-echo "<b>Azure Expert!</b>";
+echo "<b>Azure Expert v2!</b>";
