@@ -1,3 +1,3 @@
 <?php
 
-echo "<b>Azure Expert</b>";
+echo "<b>Hi, my Web sites Azure Expert is running</b>";
